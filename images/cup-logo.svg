@@ -1,0 +1,13 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+    <title id="title">Logo de taza de cafe</title>
+    <desc id="desc">Una taza de cafe clasica con vapor y plato.</desc>
+    <rect width="240" height="240" rx="120" fill="#251B15"/>
+    <path d="M85 65C78 53 93 46 87 34" stroke="#C8AD7F" stroke-width="8" stroke-linecap="round"/>
+    <path d="M119 65C110 50 130 43 121 28" stroke="#C8AD7F" stroke-width="8" stroke-linecap="round"/>
+    <path d="M153 65C146 53 161 47 155 35" stroke="#C8AD7F" stroke-width="8" stroke-linecap="round"/>
+    <path d="M62 92H156V128C156 154 135 175 109 175C83 175 62 154 62 128V92Z" fill="#F7EDDD" stroke="#C8AD7F" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M156 106H171C187 106 198 117 198 131C198 145 187 156 171 156H154" stroke="#C8AD7F" stroke-width="8" stroke-linecap="round"/>
+    <path d="M78 114H141" stroke="#6F5239" stroke-width="7" stroke-linecap="round"/>
+    <path d="M48 190H184" stroke="#C8AD7F" stroke-width="9" stroke-linecap="round"/>
+    <path d="M72 176C83 185 133 185 144 176" stroke="#F7EDDD" stroke-width="10" stroke-linecap="round"/>
+</svg>
